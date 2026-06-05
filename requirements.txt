@@ -1,0 +1,9 @@
+pandas
+numpy
+scipy
+openpyxl
+matplotlib
+seaborn
+jupyterlab
+python-docx
+pypdf
