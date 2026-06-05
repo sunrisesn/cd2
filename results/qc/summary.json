@@ -1,0 +1,60 @@
+{
+  "qc": {
+    "rows_total": 16608,
+    "unique_gene_symbols": 4982,
+    "by_timepoint": {
+      "30min": {
+        "quantified": 16608,
+        "significant": 146,
+        "down": 136,
+        "up": 10,
+        "q_under_0_05": 0
+      },
+      "90min": {
+        "quantified": 16608,
+        "significant": 35,
+        "down": 26,
+        "up": 9,
+        "q_under_0_05": 0
+      }
+    }
+  },
+  "fig2_counts_up_down": {
+    "30min": {
+      "up": 10,
+      "down": 136
+    },
+    "90min": {
+      "up": 9,
+      "down": 26
+    }
+  },
+  "fig3_recurrent_genes_both_timepoints": [
+    "FYCO1",
+    "XIRP1",
+    "CD2",
+    "NUP153",
+    "RPS6KA3",
+    "RPS6KA1",
+    "CEP170",
+    "NOP2",
+    "JUN",
+    "JUND",
+    "SYNE1",
+    "VSIR"
+  ],
+  "fig4_down_overlap": {
+    "only_30min": 79,
+    "only_90min": 17,
+    "shared": 7,
+    "shared_genes": [
+      "CD2",
+      "CEP170",
+      "JUN",
+      "NOP2",
+      "RPS6KA1",
+      "RPS6KA3",
+      "XIRP1"
+    ]
+  }
+}

@@ -7,3 +7,5 @@ seaborn
 jupyterlab
 python-docx
 pypdf
+matplotlib-venn
+gseapy

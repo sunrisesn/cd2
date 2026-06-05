@@ -1,0 +1,20 @@
+{
+  "rows_total": 16608,
+  "unique_gene_symbols": 4982,
+  "by_timepoint": {
+    "30min": {
+      "quantified": 16608,
+      "significant": 146,
+      "down": 136,
+      "up": 10,
+      "q_under_0_05": 0
+    },
+    "90min": {
+      "quantified": 16608,
+      "significant": 35,
+      "down": 26,
+      "up": 9,
+      "q_under_0_05": 0
+    }
+  }
+}

@@ -21,6 +21,9 @@ dist/
 .DS_Store
 Thumbs.db
 
+# Office lock files
+~$*
+
 # Editor
 .vscode/
 .idea/
